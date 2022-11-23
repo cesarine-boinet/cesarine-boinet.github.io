@@ -1,4 +1,12 @@
 ---
-title: "CV"
+title: "Contact"
 output: html_document
 ---
+
+[Twitter](https://twitter.com/BoinetCesarine)
+ 
+[GitHub](https://github.com/cesarine-boinet)
+
+[LinkedIn](https://www.linkedin.com/in/cesarine-boinet)
+ 
+ Mail: cesarine.boinet [at] strath.ac.uk
