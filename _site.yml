@@ -9,6 +9,8 @@ navbar:
       href: CV.html
     - text: "Research"
       href: Research.html
+    - text: "Teaching"
+      href: Teaching.html
     - text: "Contact"
       href: Contact.html
       
