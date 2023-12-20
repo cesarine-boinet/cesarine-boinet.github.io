@@ -3,11 +3,9 @@ title: "Teaching"
 output: html_document
 ---
 
+<b> Analysis of Economic Data </b> - Labs, Master's Class. University of Strathclyde, Academic year 2023-2024, Semesters 1 & 2.
 
-
-<b> Intermediate Microeconomics </b> - Undergraduate Class (2nd Year). University of Strathclyde, Academic year 2023-2024, Semester 
-
-<b> Analysis of Economic Data </b> - Labs, Master's Class. University of Strathclyde, Academic year 2023-2024, Semester 1.
+<b> Intermediate Microeconomics </b> - Undergraduate Class (2nd Year). University of Strathclyde, Academic year 2023-2024, Semester 1.
 
 <b> Introduction to Economics </b> - Undergraduate Class (1st Year). University of Strathclyde,  Academic year 2022 - 2023, Semesters 1 & 2.
 
