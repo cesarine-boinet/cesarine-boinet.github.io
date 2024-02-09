@@ -6,31 +6,32 @@ output: html_document
 <i> <b> Published Papers </i> </b>
  <br>
  
-- "International differences in gradients in early childhood overweight and obesity: the role of maternal employment and formal childcare attendance" (2023). <i> European Journal of Public Health, </i> ckad058. (with Panico, L., et al.) [URL](https://academic.oup.com/eurpub/advance-article/doi/10.1093/eurpub/ckad058/7126956).
+- "International differences in gradients in early childhood overweight and obesity: the role of maternal employment and formal childcare attendance" (2023). <i> European Journal of Public Health, </i> ckad058 with Panico, L., et al. [URL](https://academic.oup.com/eurpub/advance-article/doi/10.1093/eurpub/ckad058/7126956).
  
-- "The role of energy balance related behaviors in socioeconomic inequalities in childhood body mass index: A comparative analysis of Germany, the Netherlands, the United Kingdom, and the United States" (2022). <i> Social Science & Medicine, </i> 115575. (with de la Rie, et al.) [URL](https://www.sciencedirect.com/science/article/pii/S0277953622008814?via%3Dihub).
+- "The role of energy balance related behaviors in socioeconomic inequalities in childhood body mass index: A comparative analysis of Germany, the Netherlands, the United Kingdom, and the United States" (2022). <i> Social Science & Medicine, </i> 115575 with de la Rie, et al. [URL](https://www.sciencedirect.com/science/article/pii/S0277953622008814?via%3Dihub).
  
 - "National context and socioeconomic inequalities in educational achievement: An overview of six high income
-countries: France, Germany, Japan, the Netherlands, United Kingdom, and United States" (2021). (with Olczyk, M., et al.)  [URL](https://www.ined.fr/fichier/s_rubrique/31940/267.socioeconomic.inequality.cross.country.comparisons.fr.pdf).
+countries: France, Germany, Japan, the Netherlands, United Kingdom, and United States" (2021) with Olczyk, M., et al. [URL](https://www.ined.fr/fichier/s_rubrique/31940/267.socioeconomic.inequality.cross.country.comparisons.fr.pdf).
 
  <br>
  <i> <b> Work in Progress </i> </b>
  <br>
  
-- "The Choice of Childcare Mode(s) and its Gendered Consequences on Women and Children" (Job Market Paper)
+- "The Choice of Childcare Mode(s) and its Gendered Consequences on Women and Children"
 
  
-- "The Child Penalty: Gender Norms and Occupational Sorting".
+- "Motherhood Penalty and Gender Norms" with Jonathan Norris, and Agnese Romiti.
  
  
-- "Beliefs on Children's Human Capital Formation and Mothers at Work" (with Jonathan Norris, Agnese Romiti, and Zhan Shi)
+- "Beliefs on Children's Human Capital Formation and Mothers at Work" with Jonathan Norris, Agnese Romiti, and Zhan Shi.
  
-- "Gender Differences in Cognitive Ability at School Entry: the Role of School Readiness Skills" (with
-Panico, L. and Kelly-Irving, M.)
+- "Gender Differences in Cognitive Ability at School Entry: the Role of School Readiness Skills" with Lidia Panico, and Michelle Kelly-Irving.
 
  <br>
 <i> <b> Presentations & Invited Seminars </i> </b>
  <br>
+
+*2024*: Scottish Graduate Programme in Economics (SGPE) Annual Conference, Crieff – UK.
 
 *2023*: AIEL Conference, University of Genoa – Italy | Royal Economic Society PhD Conference, University of Glasgow, Glasgow - UK | PGR conference, University of Strathclyde, Glasgow – UK.
 
