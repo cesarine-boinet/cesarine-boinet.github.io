@@ -16,14 +16,13 @@ countries: France, Germany, Japan, the Netherlands, United Kingdom, and United S
  <br>
  <i> <b> Work in Progress </i> </b>
  <br>
- 
-- "The Choice of Childcare Mode(s) and its Gendered Consequences on Women and Children"
 
  
-- "Motherhood Penalty and Gender Norms" with Jonathan Norris, and Agnese Romiti.
- 
+- "Motherhood Penalty: Gender Norms, Occupational Sorting, and Labour Supply'" with Jonathan Norris, and Agnese Romiti.
  
 - "Beliefs on Children's Human Capital Formation and Mothers at Work" with Jonathan Norris, Agnese Romiti, and Zhan Shi.
+
+- "The Transition from Universal to Means-Tested Benefits in France: Effets on Families and Children" with Lidia Panico, and Agnese Romiti.
  
 - "Gender Differences in Cognitive Ability at School Entry: the Role of School Readiness Skills" with Lidia Panico, and Michelle Kelly-Irving.
 
@@ -31,7 +30,7 @@ countries: France, Germany, Japan, the Netherlands, United Kingdom, and United S
 <i> <b> Presentations & Invited Seminars </i> </b>
  <br>
 
-- <b> *2024*: </b> Scottish Graduate Programme in Economics (SGPE) Annual Conference, Crieff – UK (*Awarded Best Presentation Prize*)
+- <b> *2024*: </b> PGR conference, University of Strathclyde, Glasgow – UK | Scottish Graduate Programme in Economics (SGPE) Annual Conference, Crieff – UK (*Awarded Best Presentation Prize*)
 
 - <b> *2023*: </b> AIEL Conference, University of Genoa – Italy | Royal Economic Society PhD Conference, University of Glasgow, Glasgow - UK | PGR conference, University of Strathclyde, Glasgow – UK.
 
