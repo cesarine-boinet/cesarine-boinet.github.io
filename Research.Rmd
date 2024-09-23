@@ -20,9 +20,9 @@ countries: France, Germany, Japan, the Netherlands, United Kingdom, and United S
  
 - "Motherhood Penalty: Gender Norms, Occupational Sorting, and Labour Supply'" with Jonathan Norris, and Agnese Romiti.
  
-- "Beliefs on Children's Human Capital Formation and Mothers at Work" with Jonathan Norris, Agnese Romiti, and Zhan Shi.
+- "Beliefs on Children's Human Capital Formation and Mothers at Work" with Jonathan Norris, Agnese Romiti, Zhan Shi, and Paul Telemo.
 
-- "The Transition from Universal to Means-Tested Benefits in France: Effets on Families and Children" with Lidia Panico, and Agnese Romiti.
+- "The Transition from Universal to Means-Tested Benefits in France: Effets on Families and Children".
  
 - "Gender Differences in Cognitive Ability at School Entry: the Role of School Readiness Skills" with Lidia Panico, and Michelle Kelly-Irving.
 
