@@ -3,6 +3,16 @@ title: "Home"
 output: html_document
 ---
 
+<head>
+<style>
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+}
+</style>
+</head>
+<body>
+
+
 <style type="text/css">
 .title {
   display: none;

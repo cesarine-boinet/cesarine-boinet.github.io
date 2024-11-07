@@ -3,6 +3,16 @@ title: "Research"
 output: html_document
 ---
 
+<head>
+<style>
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+}
+</style>
+</head>
+<body>
+
+
 <i> <b> Published Papers </i> </b>
  <br>
  

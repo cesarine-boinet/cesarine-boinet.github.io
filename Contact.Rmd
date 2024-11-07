@@ -3,6 +3,16 @@ title: "Contact"
 output: html_document
 ---
 
+<head>
+<style>
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+}
+</style>
+</head>
+<body>
+
+
 [Twitter](https://twitter.com/BoinetCesarine)
  
 [GitHub](https://github.com/cesarine-boinet)

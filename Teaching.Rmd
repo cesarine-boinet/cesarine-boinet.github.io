@@ -4,6 +4,17 @@ output: html_document
 ---
 
 
+<head>
+<style>
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+}
+</style>
+</head>
+<body>
+
+
+
  <br>
  <i> <b> Université Sorbonne Nouvelle </i> </b>
  <br>
