@@ -13,10 +13,9 @@ body {
 <body>
 
 
-[Twitter](https://twitter.com/BoinetCesarine)
  
 [GitHub](https://github.com/cesarine-boinet)
 
 [LinkedIn](https://www.linkedin.com/in/cesarine-boinet)
  
- Mails: cesarine.boinet [at] strath.ac.uk | cesarine.boinet [at] strategie-plan.gouv.fr
+ Mail: cesarine.boinet [at] strategie-plan.gouv.fr

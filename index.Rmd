@@ -28,18 +28,18 @@ body {
 <div class="col-sm-8">
 
 # **Césarine Boinet**
-<i> Ph.D. Candidate in Economics, University of Strathclyde | Economist, Haut-commissariat à la Stratégie et au Plan </i>
+<i> Economist, Haut-Commissariat à la Stratégie et au Plan (High Commission for Strategy and Planning) </i>
 
 
 
 <br> <br>
-Welcome to my webpage! I am a Ph.D. candidate in Economics at the University of Strathclyde (Glasgow, UK) and an Economist for the French Prime Minister's Office, at the [Haut-commissariat à la Stratégie et au Plan](https://www.strategie-plan.gouv.fr/).  My research interests are in the fields of family economics, gender, applied econometrics and empirical microeconomics. My PhD research was funded by the [Institute for Inspiring Children's Futures](https://inspiringchildrensfutures.org/).
+Welcome to my webpage! I am an Economist for the French Prime Minister's Office, at the [Haut-Commissariat à la Stratégie et au Plan](https://www.strategie-plan.gouv.fr/). My research interests are in the fields of family economics, gender, applied econometrics and empirical microeconomics. My Ph.D. research was funded by the [Institute for Inspiring Children's Futures](https://inspiringchildrensfutures.org/).
 
 <br>
 <i> <b> More about me </i> </b>
 <br>
 
-As an applied economist, my thesis' work focuses on exploring the impact of societal expectations and norms (e.g., gender norms) on individuals' behaviors. I investigate how these factors contribute to gender inequalities in the labor market around motherhood, and influence parental investments in their child’s skills. As a research fellow at Sciences Po in Paris, I further worked on assessing the effects of a French reform in child allowances, initiated on July 1st, 2015, further focusing on its unintended impact on families and children.
+As an applied economist, my [thesis](https://stax.strath.ac.uk/concern/theses/1r66j1883) explores how gender norms and public policies shape maternal labor supply, occupational sorting, and investments in children. Across three empirical chapters, it examines the individual- and household-level mechanisms through which beliefs and institutional constraints affect economic behaviors, using evidence from the United Kingdom (UK) and France.
 
 
 Prior to embarking on my Ph.D. journey in July 2021, I worked as a Data Manager, within the French Institute for Demographic Studies ([Ined](https://www.ined.fr/)), on the [DICE project](https://dice.site.ined.fr) in Paris (France). My experience with the DICE project solidified my passion for research, especially in the realm of parental investments and their social and gender-related implications.

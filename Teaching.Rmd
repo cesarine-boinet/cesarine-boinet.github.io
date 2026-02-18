@@ -14,6 +14,13 @@ body {
 <body>
 
 
+ <br>
+ <i> <b> Sciences Po Paris </i> </b>
+ <br>
+
+- Policy Analysis and Policy Evaluation. Master's Class. Academic year 2025-2026, Semester 1.
+
+
 
  <br>
  <i> <b> Université Sorbonne Nouvelle </i> </b>
