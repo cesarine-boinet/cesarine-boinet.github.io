@@ -28,12 +28,12 @@ body {
 <div class="col-sm-8">
 
 # **Césarine Boinet**
-<i> Economist, Haut-Commissariat à la Stratégie et au Plan (High Commission for Strategy and Planning) </i>
+<i> Economist @ the French High Commission for Strategy and Planning (Haut-Commissariat à la Stratégie et au Plan) </i>
 
 
 
 <br> <br>
-Welcome to my webpage! I am an Economist for the French Prime Minister's Office, at the [Haut-Commissariat à la Stratégie et au Plan](https://www.strategie-plan.gouv.fr/). My research interests are in the fields of family economics, gender, applied econometrics and empirical microeconomics. My Ph.D. research was funded by the [Institute for Inspiring Children's Futures](https://inspiringchildrensfutures.org/).
+Welcome to my webpage! I am an economist at the French [High Commission for Strategy and Planning](https://www.strategie-plan.gouv.fr/). My research focuses on family economics, demography, family policies, and gender inequalities. I am particularly interested in how gender norms and public policies shape employment trajectories, household behavior, and children’s living conditions.
 
 <br>
 <i> <b> More about me </i> </b>
