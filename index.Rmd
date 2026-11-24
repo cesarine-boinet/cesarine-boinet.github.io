@@ -28,12 +28,14 @@ body {
 <div class="col-sm-8">
 
 # **Césarine Boinet**
-<i> Economist @ the French High Commission for Strategy and Planning (Haut-Commissariat à la Stratégie et au Plan) </i>
+<i> Economist @ the French High Commission for Strategy and Planning (Haut-Commissariat à la Stratégie et au Plan) & Associate Researcher @ Sciences Po (LIEPP) </i>
+
+
 
 
 
 <br> <br>
-Welcome to my webpage! I am an economist at the French [High Commission for Strategy and Planning](https://www.strategie-plan.gouv.fr/). My research focuses on family economics, demography, family policies, and gender inequalities. I am particularly interested in how gender norms and public policies shape employment trajectories, household behavior, and children’s living conditions.
+Welcome to my webpage! I am an economist at the French [High Commission for Strategy and Planning (HCSP)](https://www.strategie-plan.gouv.fr/) and an associate researcher at the [Laboratory for Interdisciplinary Evaluation of Public Policies (LIEPP)](https://www.sciencespo.fr/liepp/fr/) at Sciences Po. My research focuses on family economics, demography, family policies, and gender inequalities. I am particularly interested in how gender norms and public policies shape employment trajectories, household behavior, and children’s living conditions.
 
 <br>
 <i> <b> More about me </i> </b>
@@ -42,7 +44,7 @@ Welcome to my webpage! I am an economist at the French [High Commission for Stra
 As an applied economist, my [thesis](https://stax.strath.ac.uk/concern/theses/1r66j1883) explores how gender norms and public policies shape maternal labor supply, occupational sorting, and investments in children. Across three empirical chapters, it examines the individual- and household-level mechanisms through which beliefs and institutional constraints affect economic behaviors, using evidence from the United Kingdom (UK) and France.
 
 
-Prior to embarking on my Ph.D. journey in July 2021, I worked as a Data Manager, within the French Institute for Demographic Studies ([Ined](https://www.ined.fr/)), on the [DICE project](https://dice.site.ined.fr) in Paris (France). My experience with the DICE project solidified my passion for research, especially in the realm of parental investments and their social and gender-related implications.
+Prior to embarking on my Ph.D. journey in July 2021, I worked as a Data Manage within the French Institute for Demographic Studies ([Ined](https://www.ined.fr/)) on the [DICE project](https://dice.site.ined.fr) in Paris (France). My experience with this project solidified my passion for research, especially in the realm of parental investments and their social and gender-related implications.
 
 
 Please get in touch if you have any question about my research!
